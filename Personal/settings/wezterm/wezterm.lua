@@ -52,6 +52,7 @@ return {
 	default_cursor_style = "BlinkingBar",
 	cursor_blink_rate = 750,
 	cursor_thickness = "0.85pt",
+	xcursor_theme = "Catppuccin-Latte-Light-Cursors",
 
 	-- Fonts
 	font = wezterm.font("JetBrainsMono Nerd Font"),
